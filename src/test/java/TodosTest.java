@@ -72,7 +72,7 @@ public class TodosTest {
 
         Task[] expected = {simpleTask};
         Task[] actual = todos.search("Позвонить родителям");
-        Assertions.assertArrayEquals(expected, actual)/
+        Assertions.assertArrayEquals(expected, actual);
 
     }
 

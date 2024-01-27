@@ -17,7 +17,7 @@ public class SimpleTask extends Task {
         if (title.contains(query)) {
             return true;
         } else {
-            return false/
+            return false;
         }
     }
 }

@@ -23,7 +23,7 @@ public class Epic extends Task {
                 return false;
             }
         }
-        return false/
+        return false;
     }
 }
 
